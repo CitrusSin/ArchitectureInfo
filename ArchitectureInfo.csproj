@@ -264,5 +264,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProfileViewManager.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
